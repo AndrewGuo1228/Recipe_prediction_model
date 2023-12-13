@@ -1,4 +1,5 @@
 The exploratory data analysis on this dataset can be found [here](https://andrewguo1228.github.io/Recipe-ratings-research-project/)
+
 ---
 Yanhao Guo
 # Framing the Problem
